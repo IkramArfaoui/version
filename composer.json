@@ -1,11 +1,11 @@
 {
-    "name": "alteis/version-bundle",
+    "name": "alteis/version-bundle-3.4",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Bundle pour la gestion des versions des applications du groupe Altéis",
     "authors": [{
         "name": "Ronan Sauvage",
-        "email": "ronan.sau@gmail.com"
+        "email": "arfaouiikram2015@gmail.com"
     }],
     "autoload": {
         "psr-0": { "Alteis\\Bundle\\VersionBundle\\": "" }
