@@ -12,12 +12,5 @@
     },
     "require": {
         "symfony/symfony": "3.4.*"
-    },
-	"repositories": [
-        {
-            "type": "composer",
-            "url": "https://github.com/IkramArfaoui/version-bundle.git",
-            "canonical": false
-        }
-    ]
+    }
 }
