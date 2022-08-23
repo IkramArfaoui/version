@@ -1,5 +1,5 @@
 {
-    "name": "alteis/version-bundle-3.4",
+    "name": "alteis/version-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Bundle pour la gestion des versions des applications du groupe Altéis",
@@ -12,5 +12,12 @@
     },
     "require": {
         "symfony/symfony": "3.4.*"
-    }
+    },
+	"repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/IkramArfaoui/version-bundle.git",
+            "canonical": false
+        }
+    ]
 }
