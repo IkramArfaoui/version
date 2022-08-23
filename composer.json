@@ -1,5 +1,5 @@
 {
-    "name": "alteis/version-bundle",
+    "name": "alteis/version-bundle-3.4",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Bundle pour la gestion des versions des applications du groupe Altéis",
